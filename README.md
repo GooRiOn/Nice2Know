@@ -9,3 +9,5 @@ Link for projects/concepts that are worth knowing.
 - [Linkerd - Service Mesh for Kubernetes](https://linkerd.io/)
 
 - [Pact - contract testing tool](https://docs.pact.io/)
+
+- [The twelve-factor app](https://12factor.net/)
