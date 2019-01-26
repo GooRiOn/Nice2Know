@@ -8,6 +8,8 @@ Link for projects/concepts that are worth knowing.
 
 - [Istio - Service Mesh for Kubernetes](https://istio.io/)
 
+- [Jaeger - open source, end-to-end distributed tracing](https://www.jaegertracing.io/)
+
 - [Linkerd - Service Mesh for Kubernetes](https://linkerd.io/)
 
 - [Pact - contract testing tool](https://docs.pact.io/)
