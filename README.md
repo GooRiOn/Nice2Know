@@ -18,4 +18,4 @@ Link for projects/concepts that are worth knowing.
 
 - [The twelve-factor app](https://12factor.net/)
 
-- [Solace - event mesh](solace.com)
+- [Solace - event mesh](https://solace.com)
