@@ -19,3 +19,5 @@ Link for projects/concepts that are worth knowing.
 - [The twelve-factor app](https://12factor.net/)
 
 - [Solace - event mesh](https://solace.com)
+
+- [Dapr - An event-driven, portable runtime for building microservices on cloud and edge](https://dapr.io/)
