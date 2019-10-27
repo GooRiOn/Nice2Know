@@ -23,3 +23,5 @@ Link for projects/concepts that are worth knowing.
 - [Dapr - An event-driven, portable runtime for building microservices on cloud and edge](https://dapr.io/)
 
 - [Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops)
+
+- [gRPC - A high performance, open-source universal RPC framework](https://grpc.io/)
