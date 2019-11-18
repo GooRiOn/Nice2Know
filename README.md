@@ -25,3 +25,5 @@ Link for projects/concepts that are worth knowing.
 - [Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops)
 
 - [gRPC - A high performance, open-source universal RPC framework](https://grpc.io/)
+
+- [Open Application Model - A team-centric standard for building cloud native apps.](https://oam.dev/)
