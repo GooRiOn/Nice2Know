@@ -27,3 +27,5 @@ Link for projects/concepts that are worth knowing.
 - [gRPC - A high performance, open-source universal RPC framework](https://grpc.io/)
 
 - [Open Application Model - A team-centric standard for building cloud native apps.](https://oam.dev/)
+
+- [Rudr - A Kubernetes Implementation of the Open Application Model](https://github.com/oam-dev/rudr)
