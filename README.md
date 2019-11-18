@@ -29,3 +29,5 @@ Link for projects/concepts that are worth knowing.
 - [Open Application Model - A team-centric standard for building cloud native apps.](https://oam.dev/)
 
 - [Rudr - A Kubernetes Implementation of the Open Application Model](https://github.com/oam-dev/rudr)
+
+- [Dapr - portable, event-driven, runtime for building distributed applications across cloud and edge.](https://github.com/dapr/dapr)
