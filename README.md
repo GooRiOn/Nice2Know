@@ -31,3 +31,5 @@ Link for projects/concepts that are worth knowing.
 - [Rudr - A Kubernetes Implementation of the Open Application Model](https://github.com/oam-dev/rudr)
 
 - [Dapr - portable, event-driven, runtime for building distributed applications across cloud and edge.](https://github.com/dapr/dapr)
+
+- [RabbitMQ - Quorum Queues](rabbitmq.com/quorum-queues.html)
