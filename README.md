@@ -4,7 +4,7 @@ Link for projects/concepts that are worth knowing.
 ## List
 - [Draft - Streamlined Kebernetes Development](https://draft.sh/)
 
-- [Envoy - Service proxy, designed ofr cloud-native applications](https://www.envoyproxy.io/)
+- [Envoy - Service proxy, designed for cloud-native applications](https://www.envoyproxy.io/)
 
 - [Istio - Service Mesh for Kubernetes](https://istio.io/)
 
