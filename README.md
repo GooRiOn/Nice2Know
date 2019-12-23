@@ -39,3 +39,5 @@ Link for projects/concepts that are worth knowing.
 - [Message DB - Microservice Native Event Store and Message Store for Postgres](https://github.com/message-db/message-db)
 
 - [Portainer - Build and manage your Docker environments with ease today.](https://www.portainer.io/)
+
+- [NBomber - Load test any system with a distributed cluster](https://nbomber.com/)
