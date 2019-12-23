@@ -43,3 +43,5 @@ Link for projects/concepts that are worth knowing.
 - [NBomber - Load test any system with a distributed cluster](https://nbomber.com/)
 
 - [PACT - Fast, easy and reliable testing for your APIs and microservices during development](http://pact.io/)
+
+- [Consul Connect - Consul Connect provides service-to-service connection authorization and encryption using mutual Transport Layer Security (TLS). ](https://www.consul.io/docs/connect/index.html)
