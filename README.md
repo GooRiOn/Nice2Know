@@ -45,3 +45,5 @@ Link for projects/concepts that are worth knowing.
 - [PACT - Fast, easy and reliable testing for your APIs and microservices during development](http://pact.io/)
 
 - [Consul Connect - Consul Connect provides service-to-service connection authorization and encryption using mutual Transport Layer Security (TLS). ](https://www.consul.io/docs/connect/index.html)
+
+- [Serilog - Flexible, structured events — log file convenience.] (https://serilog.net/)
