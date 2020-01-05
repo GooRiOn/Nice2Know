@@ -49,3 +49,5 @@ Link for projects/concepts that are worth knowing.
 - [Serilog - Flexible, structured events — log file convenience.](https://serilog.net/)
 
 - [Seq - creates the visibility you need to quickly identify and diagnose problems in complex applications and microservices.](https://datalust.co/seq)
+
+- [Kafka - a distributed streaming platform](https://kafka.apache.org/)
