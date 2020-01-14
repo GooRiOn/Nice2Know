@@ -51,3 +51,5 @@ Link for projects / concepts that are worth knowing. The list is partialy based 
 - [Seq - creates the visibility you need to quickly identify and diagnose problems in complex applications and microservices.](https://datalust.co/seq)
 
 - [Kafka - a distributed streaming platform](https://kafka.apache.org/)
+
+- [OAuth 2.0 - the industry-standard protocol for authorization.](https://oauth.net/2/)
