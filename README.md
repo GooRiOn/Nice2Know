@@ -54,4 +54,4 @@ Link for projects / concepts that are worth knowing. The list is partialy based 
 
 - [OAuth 2.0 - the industry-standard protocol for authorization.](https://oauth.net/2/)
 
-- [Snowflake ID - a service used to generate unique IDs for objects within Twitter](https://developer.twitter.com/en/docs/basics/twitter-ids)
+- [Snowflake ID - service used to generate unique IDs for objects within Twitter](https://developer.twitter.com/en/docs/basics/twitter-ids)
