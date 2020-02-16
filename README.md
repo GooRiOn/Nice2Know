@@ -16,7 +16,7 @@ Link for projects / concepts that are worth knowing. The list is partialy based 
 
 - [Rancher - open-source software for delivering Kubernetes-as-a-Service](https://rancher.com/)
 
-- [The twelve-factor app](https://12factor.net/)
+- [The twelve factor app](https://12factor.net/)
 
 - [Solace - event mesh](https://solace.com)
 
