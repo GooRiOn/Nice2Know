@@ -1,5 +1,5 @@
 # Nice2Know
-Link for projects / concepts that are worth knowing. The list is partialy based on the material presented on the "Microservices .NET Core" workshops.
+Link for projects / concepts that are worth knowing. The list is partialy based on the material presented on the "Microservices .NET Core" workshops. Feel free to add your propositions!
 
 ## List
 - [Draft - Streamlined Kebernetes Development](https://draft.sh/)
