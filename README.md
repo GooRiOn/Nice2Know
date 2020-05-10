@@ -6,9 +6,9 @@ Link for projects / concepts that are worth knowing. The list is partialy based 
 
 - [Envoy - Service proxy, designed for cloud-native applications.](https://www.envoyproxy.io)
 
-- [Istio - Service Mesh for Kubernetes](https://istio.io)
+- [Istio - Service Mesh for Kubernetes.](https://istio.io)
 
-- [Jaeger - open source, end-to-end distributed tracing](https://www.jaegertracing.io)
+- [Jaeger - open source, end-to-end distributed tracing.](https://www.jaegertracing.io)
 
 - [Linkerd - Service Mesh for Kubernetes](https://linkerd.io)
 
