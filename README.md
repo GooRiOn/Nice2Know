@@ -32,7 +32,7 @@ Link for projects / concepts that are worth knowing. The list is partialy based 
 
 - [Dapr - portable, event-driven, runtime for building distributed applications across cloud and edge.](https://github.com/dapr/dapr)
 
-- [RabbitMQ - Quorum Queues](rabbitmq.com/quorum-queues.html)
+- [RabbitMQ - Quorum Queues.](rabbitmq.com/quorum-queues.html)
 
 - [Traefik - Cloud Native Edge Router](https://containo.us/traefik)
 
