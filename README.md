@@ -10,7 +10,7 @@ Link for projects / concepts that are worth knowing. The list is partialy based 
 
 - [Jaeger - open source, end-to-end distributed tracing.](https://www.jaegertracing.io)
 
-- [Linkerd - Service Mesh for Kubernetes](https://linkerd.io)
+- [Linkerd - Service Mesh for Kubernetes.](https://linkerd.io)
 
 - [Pact - contract testing tool](https://docs.pact.io)
 
