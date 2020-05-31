@@ -57,3 +57,5 @@ Link for projects / concepts that are worth knowing. The list is partialy based 
 - [Snowflake ID - service used to generate unique IDs for objects within Twitter.](https://developer.twitter.com/en/docs/basics/twitter-ids)
 
 - [Thanos - highly available Prometheus setup with long term storage capabilities.](https://thanos.io)
+
+- [k9s - Kubernetes CLI To Manage Your Clusters In Style!] (https://github.com/derailed/k9s)
