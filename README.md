@@ -12,7 +12,7 @@ Link for projects / concepts that are worth knowing. The list is partialy based 
 
 - [Linkerd - Service Mesh for Kubernetes.](https://linkerd.io)
 
-- [Pact - contract testing tool](https://docs.pact.io)
+- [Pact - contract testing tool.](https://docs.pact.io)
 
 - [Rancher - open-source software for delivering Kubernetes-as-a-Service](https://rancher.com)
 
