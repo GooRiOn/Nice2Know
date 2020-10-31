@@ -14,7 +14,7 @@ Link for projects / concepts that are worth knowing. The list is partialy based 
 
 - [Pact - contract testing tool.](https://docs.pact.io)
 
-- [Rancher - open-source software for delivering Kubernetes-as-a-Service](https://rancher.com)
+- [Rancher - open-source software for delivering Kubernetes-as-a-Service.](https://rancher.com)
 
 - [The twelve factor app.](https://12factor.net)
 
