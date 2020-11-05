@@ -34,7 +34,7 @@ Link for projects / concepts that are worth knowing. The list is partialy based 
 
 - [RabbitMQ - Quorum Queues.](rabbitmq.com/quorum-queues.html)
 
-- [Traefik - Cloud Native Edge Router](https://containo.us/traefik)
+- [Traefik - Cloud Native Edge Router.](https://containo.us/traefik)
 
 - [Message DB - Microservice Native Event Store and Message Store for Postgres.](https://github.com/message-db/message-db)
 
