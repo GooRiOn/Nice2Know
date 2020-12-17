@@ -60,4 +60,4 @@ Link for projects / concepts that are worth knowing. The list is partialy based 
 
 - [k9s - Kubernetes CLI To Manage Your Clusters In Style.](https://github.com/derailed/k9s)
 
-- [Modular Monolith with DDD] (https://github.com/kgrzybek/modular-monolith-with-ddd)
+- [Modular Monolith with DDD](https://github.com/kgrzybek/modular-monolith-with-ddd)
