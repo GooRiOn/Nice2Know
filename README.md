@@ -1,7 +1,6 @@
 # Nice2Know
-Link for projects / concepts that are worth knowing. The list is partialy based on the material presented on the "Microservices .NET Core" workshops. Feel free to add your propositions in PR!
+Link for projects / concepts that are worth knowing. The list is partialy based on the material presented on the "Microservices .NET Core" workshops. Feel free to add your propositions in Pull Requests!
 
-## List
 - [Draft - Streamlined Kebernetes Development.](https://draft.sh)
 
 - [Envoy - Service proxy, designed for cloud-native applications.](https://www.envoyproxy.io)
