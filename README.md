@@ -60,3 +60,5 @@ Link for projects / concepts that are worth knowing. The list is partialy based 
 - [k9s - Kubernetes CLI To Manage Your Clusters In Style.](https://github.com/derailed/k9s)
 
 - [Modular Monolith with DDD - Full Modular Monolith .NET application with Domain-Driven Design approach.](https://github.com/kgrzybek/modular-monolith-with-ddd)
+
+- [Apache Pulsar - cloud-native, distributed messaging and streaming platform originally created at Yahoo!](https://pulsar.apache.org/en/)
